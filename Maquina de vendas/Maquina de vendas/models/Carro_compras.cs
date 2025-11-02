@@ -1,28 +1,36 @@
 public class Carro_compras
 {
-    public List<string> carnomes = new List<string>();
-    public double carpreco = 0;
-    public int carquant = 0;
+    public List<string> Carnomes = new List<string>();
+    public double Carpreco { get; set; }
+    public int Carquant { get; set; }
 
-    static double Preço_calc(double preco)
+    public double Preço_calc(double preco)
     {
-        carpreco += preco;
-        return carpreco;
+        Carpreco += preco;
+        return Carpreco;
     }
 
-    static bool validity_check(int num)
-    {  
-        if (num < 00 && num > 99)
+    public int Qunat_calc(int num)
+    {
+        Carquant += num;
+        return Carquant;
+    }
+
+
+    public bool Validity_check(int num)
+    {
+        if (num < 0 || num > 99)
         {
             return false;
         }
-        //else if foreach (Artg item in artgs){if (num > item.Quantartg)return false;}}
         return true;
     }
 
-    ShowCart(){
-        foreach (string nome in carnomes){
-            Console.WriteLine(nome)
+    public void ShowCart()
+    {
+        foreach (string nome in Carnomes)
+        {
+            Console.WriteLine(nome);
         }
     }
 }
