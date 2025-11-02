@@ -1,9 +1,19 @@
-namespace Maquina_de_vendas.models
+public class Artg
 {
-    class Artg
+    public string Nomeartg { get; init; }
+    public double Euroartg { get; init; }
+    public int Quantartg { get; init; }
+}
+
+public class Carro_compras
+{
+    List<string> carnomes = new List<string>();
+    public double carpreco = 0;
+    int carquant = 0;
+    public void add_item(string nome, double preco)
     {
-        private string Nomemartg { get; init; }
-        private double Euroartg { get; init; }
-        private int Quantartg { get; init; }
+        carnomes.Add(nome);
+        carpreco += preco;
+        carquant++;
     }
 }

@@ -6,7 +6,7 @@ namespace Maquina_de_vendas_projeto
 	{
 		private static void Main()
 		{
-			Console.WriteLine();
+			
 		}
 	}
 }
