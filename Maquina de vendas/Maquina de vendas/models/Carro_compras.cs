@@ -16,16 +16,6 @@ public class Carro_compras
         return Carquant;
     }
 
-
-    public bool Validity_check(int num)
-    {
-        if (num < 0 || num > 99)
-        {
-            return false;
-        }
-        return true;
-    }
-
     public void ShowCart()
     {
         foreach (string nome in Carnomes)
