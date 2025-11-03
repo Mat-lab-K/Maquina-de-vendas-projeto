@@ -1,0 +1,15 @@
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/bin/Debug/net8.0/Maquina de vendas
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/bin/Debug/net8.0/Maquina de vendas.deps.json
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/bin/Debug/net8.0/Maquina de vendas.runtimeconfig.json
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/bin/Debug/net8.0/Maquina de vendas.dll
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/bin/Debug/net8.0/Maquina de vendas.pdb
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/obj/Debug/net8.0/Maquina de vendas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/obj/Debug/net8.0/Maquina de vendas.AssemblyInfoInputs.cache
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/obj/Debug/net8.0/Maquina de vendas.AssemblyInfo.cs
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/obj/Debug/net8.0/Maquina de vendas.csproj.CoreCompileInputs.cache
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/obj/Debug/net8.0/Maquina de vendas.sourcelink.json
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/obj/Debug/net8.0/Maquina de vendas.dll
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/obj/Debug/net8.0/refint/Maquina de vendas.dll
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/obj/Debug/net8.0/Maquina de vendas.pdb
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/obj/Debug/net8.0/Maquina de vendas.genruntimeconfig.cache
+/workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/obj/Debug/net8.0/ref/Maquina de vendas.dll

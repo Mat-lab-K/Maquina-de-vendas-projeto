@@ -1,0 +1,1 @@
+projeto de teste para estruturação de pensamento logico

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Maquina_de_vendas
-build_property.ProjectDir = C:\Users\Utilizador\Downloads\Maquina de vendas\Maquina de vendas\
+build_property.ProjectDir = /workspaces/Maquina-de-vendas-projeto/Maquina de vendas/Maquina de vendas/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
